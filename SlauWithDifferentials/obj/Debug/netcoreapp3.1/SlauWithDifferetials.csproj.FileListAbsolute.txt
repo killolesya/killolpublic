@@ -1,0 +1,13 @@
+C:\Users\olesy\OneDrive\Рабочий стол\SlauWithDifferetials\bin\Debug\netcoreapp3.1\SlauWithDifferetials.exe
+C:\Users\olesy\OneDrive\Рабочий стол\SlauWithDifferetials\bin\Debug\netcoreapp3.1\SlauWithDifferetials.deps.json
+C:\Users\olesy\OneDrive\Рабочий стол\SlauWithDifferetials\bin\Debug\netcoreapp3.1\SlauWithDifferetials.runtimeconfig.json
+C:\Users\olesy\OneDrive\Рабочий стол\SlauWithDifferetials\bin\Debug\netcoreapp3.1\SlauWithDifferetials.runtimeconfig.dev.json
+C:\Users\olesy\OneDrive\Рабочий стол\SlauWithDifferetials\bin\Debug\netcoreapp3.1\SlauWithDifferetials.dll
+C:\Users\olesy\OneDrive\Рабочий стол\SlauWithDifferetials\bin\Debug\netcoreapp3.1\SlauWithDifferetials.pdb
+C:\Users\olesy\OneDrive\Рабочий стол\SlauWithDifferetials\obj\Debug\netcoreapp3.1\SlauWithDifferetials.AssemblyInfoInputs.cache
+C:\Users\olesy\OneDrive\Рабочий стол\SlauWithDifferetials\obj\Debug\netcoreapp3.1\SlauWithDifferetials.AssemblyInfo.cs
+C:\Users\olesy\OneDrive\Рабочий стол\SlauWithDifferetials\obj\Debug\netcoreapp3.1\SlauWithDifferetials.csproj.CoreCompileInputs.cache
+C:\Users\olesy\OneDrive\Рабочий стол\SlauWithDifferetials\obj\Debug\netcoreapp3.1\SlauWithDifferetials.dll
+C:\Users\olesy\OneDrive\Рабочий стол\SlauWithDifferetials\obj\Debug\netcoreapp3.1\SlauWithDifferetials.pdb
+C:\Users\olesy\OneDrive\Рабочий стол\SlauWithDifferetials\obj\Debug\netcoreapp3.1\SlauWithDifferetials.genruntimeconfig.cache
+C:\Users\olesy\OneDrive\Рабочий стол\SlauWithDifferetials\obj\Debug\netcoreapp3.1\SlauWithDifferetials.csprojAssemblyReference.cache
