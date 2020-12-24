@@ -1,0 +1,13 @@
+C:\Users\olesy\source\repos\Differentials\bin\Debug\netcoreapp3.1\Differentials.exe
+C:\Users\olesy\source\repos\Differentials\bin\Debug\netcoreapp3.1\Differentials.deps.json
+C:\Users\olesy\source\repos\Differentials\bin\Debug\netcoreapp3.1\Differentials.runtimeconfig.json
+C:\Users\olesy\source\repos\Differentials\bin\Debug\netcoreapp3.1\Differentials.runtimeconfig.dev.json
+C:\Users\olesy\source\repos\Differentials\bin\Debug\netcoreapp3.1\Differentials.dll
+C:\Users\olesy\source\repos\Differentials\bin\Debug\netcoreapp3.1\Differentials.pdb
+C:\Users\olesy\source\repos\Differentials\obj\Debug\netcoreapp3.1\Differentials.csprojAssemblyReference.cache
+C:\Users\olesy\source\repos\Differentials\obj\Debug\netcoreapp3.1\Differentials.AssemblyInfoInputs.cache
+C:\Users\olesy\source\repos\Differentials\obj\Debug\netcoreapp3.1\Differentials.AssemblyInfo.cs
+C:\Users\olesy\source\repos\Differentials\obj\Debug\netcoreapp3.1\Differentials.csproj.CoreCompileInputs.cache
+C:\Users\olesy\source\repos\Differentials\obj\Debug\netcoreapp3.1\Differentials.dll
+C:\Users\olesy\source\repos\Differentials\obj\Debug\netcoreapp3.1\Differentials.pdb
+C:\Users\olesy\source\repos\Differentials\obj\Debug\netcoreapp3.1\Differentials.genruntimeconfig.cache

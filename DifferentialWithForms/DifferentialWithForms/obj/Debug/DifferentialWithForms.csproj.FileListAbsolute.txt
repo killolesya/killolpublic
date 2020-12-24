@@ -1,0 +1,12 @@
+C:\Users\olesy\OneDrive\Рабочий стол\DifferentialWithForms\DifferentialWithForms\obj\Debug\DifferentialWithForms.csprojAssemblyReference.cache
+C:\Users\olesy\OneDrive\Рабочий стол\DifferentialWithForms\DifferentialWithForms\obj\Debug\DifferentialWithForms.FunctionSelectionForm.resources
+C:\Users\olesy\OneDrive\Рабочий стол\DifferentialWithForms\DifferentialWithForms\obj\Debug\DifferentialWithForms.Properties.Resources.resources
+C:\Users\olesy\OneDrive\Рабочий стол\DifferentialWithForms\DifferentialWithForms\obj\Debug\DifferentialWithForms.csproj.GenerateResource.cache
+C:\Users\olesy\OneDrive\Рабочий стол\DifferentialWithForms\DifferentialWithForms\obj\Debug\DifferentialWithForms.csproj.CoreCompileInputs.cache
+C:\Users\olesy\OneDrive\Рабочий стол\DifferentialWithForms\DifferentialWithForms\bin\Debug\DifferentialWithForms.exe.config
+C:\Users\olesy\OneDrive\Рабочий стол\DifferentialWithForms\DifferentialWithForms\bin\Debug\DifferentialWithForms.exe
+C:\Users\olesy\OneDrive\Рабочий стол\DifferentialWithForms\DifferentialWithForms\bin\Debug\DifferentialWithForms.pdb
+C:\Users\olesy\OneDrive\Рабочий стол\DifferentialWithForms\DifferentialWithForms\obj\Debug\DifferentialWithForms.exe
+C:\Users\olesy\OneDrive\Рабочий стол\DifferentialWithForms\DifferentialWithForms\obj\Debug\DifferentialWithForms.pdb
+C:\Users\olesy\OneDrive\Рабочий стол\DifferentialWithForms\DifferentialWithForms\obj\Debug\DifferentialWithForms.PowerFunctionForm.resources
+C:\Users\olesy\OneDrive\Рабочий стол\DifferentialWithForms\DifferentialWithForms\obj\Debug\DifferentialWithForms.TrigonometricFunctionForm.resources
